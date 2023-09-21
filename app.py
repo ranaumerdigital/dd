@@ -7,7 +7,7 @@ def home():
     return "This is homepage"
 
 @app.route('/index')
-def index():
+def iN():
     return "This is index page"
 
 if __name__== "__main__":
